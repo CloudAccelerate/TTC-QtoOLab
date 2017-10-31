@@ -7,10 +7,10 @@
 
 To install the MAX App from the App Store:
 
-![](images/studentguide/max_app_store1.png)
+![](images/studentguide/max_app_store1.png) 
 
 1. On your iPhone, open the App Store.
-2. Search for Oracle MAX App.
+2. Search for Oracle MAX Application.
 3. When prompted, allow MAX to send you notifications.
 4. Read through the end user terms and conditions and then tap Agree.
 5. Enter your login information:
